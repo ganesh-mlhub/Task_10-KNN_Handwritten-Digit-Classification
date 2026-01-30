@@ -30,4 +30,4 @@ To implement K-Nearest Neighbors (KNN) for handwritten digit classification and 
 - `Task10_KNN_Handwritten_Digits.ipynb` – Complete implementation
 
 ## 👨‍💻 Author
-Your Name
+Bhusare Ganesh
